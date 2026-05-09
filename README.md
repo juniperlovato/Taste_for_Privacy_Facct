@@ -1,4 +1,4 @@
-# Taste for Privacy — Replication Code
+# Taste for Privacy 
 
 This repository contains the analysis code for:
 

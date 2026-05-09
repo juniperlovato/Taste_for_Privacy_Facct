@@ -21,9 +21,9 @@ A preprint is available at: https://arxiv.org/abs/2604.22025
 
 ## Data
 
-The scripts expect a CSV file at the path specified in each script's data-loading cell (`pd.read_csv('filepath.csv')`). Update this path to point to your local copy of the dataset before running.
+The dataset contains sensitive participant information, and aggregate data may be available to researchers upon request. To request access, please contact jlovato@uvm.edu. Requests should describe the intended use.
 
----
+Once you have obtained the data, update the path in each script's data-loading cell (pd.read_csv('filepath.csv')) to point to your local copy before running.
 
 ## Dependencies
 
